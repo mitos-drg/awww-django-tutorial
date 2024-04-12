@@ -1,0 +1,8 @@
+# File for ignored paths for Git
+
+## Python
+venv/
+
+## IDE
+.idea/
+
